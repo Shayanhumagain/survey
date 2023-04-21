@@ -1,0 +1,31 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+form{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+input{
+    padding: 1%;
+}
+
+
+a:link {
+	color: rgb(138, 50, 138);
+	text-decoration: none;
+}
+
+
+a:visited {
+	color: rgb(214, 214, 214);
+	text-decoration: line-through;
+}
+
+
+a:hover {
+	color: rgb(255, 0, 0);
+	font-weight: bold;
+}
